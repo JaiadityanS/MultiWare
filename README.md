@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=F749CD&width=435&lines=This+is+Team+DEAL+;%23HELPFARMERS)](https://git.io/typing-svg)
 
-<p id="description">We're here to connect the farmers and the customers in different ways. We have 2 applications one is for the customers and another is for the customers</p>
+<p id="description">We're here to connect the farmers and the customers in different ways. We have 2 applications one is for the customers and another is for the farmers</p>
 
 <h2>🚀 Demo</h2>
 
